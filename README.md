@@ -4,7 +4,7 @@ Welcome to my corner of GitHub! I’m Ryan, a **University of Waterloo Computer 
 
 ## 🚀 About Me
 
-- 📖 I'm dedicated to learning new things and exploring my interests, I'm not a one-trick pony.
+- 📖 I'm dedicated to learning new things and exploring my interests, I like to think of myself as a swiss army knife.
 - ❤️‍🔥 I have a passion for AI applications, Machine Learning, Data Analysis, Genetic Algorithms, and Optimization Techniques.
 
 ## 🛠️ Skills
