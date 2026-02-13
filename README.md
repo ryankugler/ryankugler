@@ -2,12 +2,12 @@
 
 Welcome to my corner of GitHub! I’m Ryan, a **University of Waterloo Computer Engineering** graduate and tech-enthusiast based in Toronto, Canada. Here, you'll find a mix of personal projects and learning experiments.
 
-## 🚀 About Me
+## About Me
 
-- 📖 I'm dedicated to learning new things and exploring my interests, I like to think of myself as a swiss army knife.
-- ❤️‍🔥 I have a passion for AI applications, Machine Learning, Data Analysis, Genetic Algorithms, and Optimization Techniques.
+- I'm dedicated to learning new things and exploring my interests, I like to think of myself as a swiss army knife.
+- I have a passion for AI applications, Machine Learning, Data Analysis, Genetic Algorithms, and Optimization Techniques.
 
-## 🛠️ Skills
+## Skills
 
 ### Web Development
 - **Frontend:** React, Redux, JavaScript, Typescript, TailwindCSS, MaterialUI
@@ -29,6 +29,6 @@ Welcome to my corner of GitHub! I’m Ryan, a **University of Waterloo Computer 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 Feel free to check out my projects. You can also find me on [LinkedIn](https://www.linkedin.com/in/ryan-kugler) or shoot me an email at **kuglerryan@gmail.com**. 
