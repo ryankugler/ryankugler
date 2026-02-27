@@ -1,34 +1,74 @@
-# 👋 Hello, World! I'm Ryan!
+<div align="center">
 
-Welcome to my corner of GitHub! I’m Ryan, a **University of Waterloo Computer Engineering** graduate and tech-enthusiast based in Toronto, Canada. Here, you'll find a mix of personal projects and learning experiments.
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E1F,30:556B2F,70:6B8E23,100:4A5D23&height=180&section=header&text=hey,%20i'm%20ryan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=builder%20of%20things%20•%20destroyer%20of%20prod%20•%20occasional%20genius&descAlignY=55&descSize=16" width="100%"/>
 
-## About Me
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=1283F7&random=true&width=435&lines=%3E+engineer%2C+dabbler%2C+nerd%2C+problem-solver;%3E+toronto+raptors+fan%2C+tech+junkie)](https://git.io/typing-svg)
 
-- I'm dedicated to learning new things and exploring my interests, I like to think of myself as a swiss army knife.
-- I have a passion for AI applications, Machine Learning, Data Analysis, Genetic Algorithms, and Optimization Techniques.
+</div>
 
-## Skills
+<div align="center">
 
-### Web Development
-- **Frontend:** React, Redux, JavaScript, Typescript, TailwindCSS, MaterialUI
-- **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL, MongoDB
-- **Tools & Frameworks:** Webpack, npm, Git
+## stuff i use
 
-### Data Analysis & Machine Learning
-- **Languages:** Python, SQL, R, MATLAB
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, scikit-learn
-- **Concepts:** Data Visualization, Statistical Analysis, Machine Learning Algorithms
-- **Platforms:** AWS (S3, EC2), Jupyter Notebooks
+**Languages**
 
-### Embedded Systems
-- **Languages:** C, C++
-- **Microcontrollers:** Arduino, Raspberry Pi, NXP LPC1768
-- **Tools & Platforms:** I2C, SPI, UART, GPIO
-- **Concepts:** Circuit Design, Sensor Integration, Real-Time Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
+**Frontend**
 
-## Let’s Connect
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Feel free to check out my projects. You can also find me on [LinkedIn](https://www.linkedin.com/in/ryan-kugler) or shoot me an email at **kuglerryan@gmail.com**. 
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ryankugler&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
+<div align="center">
+
+## get in touch!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-kugler)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuglerryan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://rykugler.com)
+
+</div>
+
+
+<div align="center">
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ryankugler&style=for-the-badge&color=275215&label=profile+views)
+
+</div>
