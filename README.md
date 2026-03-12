@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E1F,30:556B2F,70:6B8E23,100:4A5D23&height=180&section=header&text=hey,%20i'm%20ryan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=decently%20fast%20typer•%20occasionally%20smart&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E1F,30:556B2F,70:6B8E23,100:4A5D23&height=180&section=header&text=hey,%20i'm%20ryan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=decently%20fast%20typer&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=1283F7&random=true&width=435&lines=%3E+engineer%2C+dabbler%2C+nerd%2C+problem-solver;%3E+toronto+raptors+fan%2C+tech+junkie)](https://git.io/typing-svg)
